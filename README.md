@@ -1,0 +1,1 @@
+[Link to CV / Resume](https://andrej-mazur.github.io/rsschool-cv/cv)
