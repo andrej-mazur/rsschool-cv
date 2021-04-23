@@ -1,27 +1,25 @@
-## Andrej M.
+# CV / Resume - Andrej M.
 
----
-
-### Contact Info
+## Contact Info
 
 ...
 
-### Summary
+## Summary
 
 ...
 
-### Skills
+## Skills
 
 ...
 
-### Experience
+## Experience
 
 ...
 
-### Education
+## Education
 
 ...
    
-### English
+## English
 
 ...
